@@ -1,0 +1,8 @@
+[submodule "websocket-chatserver"]
+	path = websocket-chatserver
+	url = https://github.com/sohee52/websocket-chatserver.git
+	branch = main
+[submodule "websocket-chatfront"]
+	path = websocket-chatfront
+	url = https://github.com/sohee52/websocket-chatfront.git
+	branch = main
